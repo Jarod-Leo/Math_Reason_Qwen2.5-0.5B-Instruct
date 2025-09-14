@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+modelscope
+wandb
+trl
+vllm>=0.3.0

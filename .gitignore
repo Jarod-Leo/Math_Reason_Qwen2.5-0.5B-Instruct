@@ -1,0 +1,6 @@
+*.log
+GRPO/wandb/
+GRPO/__pycache__/
+GRPO/outputs/
+GRPO/trainer_output/
+
